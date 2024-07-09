@@ -1,0 +1,11 @@
+---
+title: "Iterative distributed model predictive control for nonlinear systems with coupled non‐convex constraints and costs"
+collection: publications
+permalink: /publication/IJRNC1
+date: 2024
+venue: 'International Journal of Robust and Nonlinear Control'
+paperurl: https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.7341
+citation: 'Wu, J., Dai, L., & Xia, Y. (2024). Iterative distributed model predictive control for heterogeneous systems with non-convex coupled constraints. Automatica, 166, 111700.'
+---
+
+This paper investigates the distributed model predictive control (DMPC) problem for multiple dynamically-decoupled heterogeneous linear systems subject to both local state and input constraints and coupled non-convex constraints (e.g., collision avoidance constraints). To solve the resulting non-convex optimal control problem (OCP) at each time step, successive convex approximation (SCA) technique is a promising convexification approach. However, an algorithm that is fully distributed, computationally efficient, and recursively feasible for both local and coupled non-convex constraints remains an open problem. In this paper, we propose an inner–outer layer framework that integrates three important modifications into the SCA scheme for solving each OCP. Specifically, (i) in the inner layer, we utilize a distributed dual fast gradient approach to enable the distributed execution, (ii) as for the outer layer, instead of requiring the optimal solution at each iteration by classical SCA scheme, we improve computational efficiency by relying solely on a suboptimal solution achieved through flexible termination, and (iii) an adaptive tightening strategy imposing on the convexified coupled constraints is developed which permits both the inner and outer layers to terminate in advance with the guarantee of the closed-loop non-convex coupled constraints satisfaction. Under some reasonable assumptions, convergence of the proposed inner–outer layer framework, recursive feasibility of the proposed DMPC algorithm and stability of the resulting whole closed-loop system are ensured. Simulation results on multi-agent control with non-convex coupled collision avoidance constraints and comparisons against some benchmark solutions using the centralized method are carried out to verify the performance of the proposed DMPC method.
