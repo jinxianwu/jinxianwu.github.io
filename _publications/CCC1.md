@@ -3,7 +3,7 @@ title: "Distributed fuzzy clustering based association rule mining: design, depl
 collection: publications
 permalink: /publication/CCC1
 date: 2021-10-01
-venue: 'In proceedings of the China Automation Congress'
+venue: 'Proceedings of the China Automation Congress'
 excerpt: 'In this paper, a distributed fuzzy clustering based association rule mining (DFARM) framework is proposed where outside-layer and inside-layer distribution are employed to realize the parallel operation of the whole FARM algorithm.'
 slidesurl: # sd
 paperurl: https://ieeexplore.ieee.org/abstract/document/9728421
