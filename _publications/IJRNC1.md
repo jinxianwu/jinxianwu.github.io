@@ -2,7 +2,7 @@
 title: "Iterative distributed model predictive control for nonlinear systems with coupled non‐convex constraints and costs"
 collection: publications
 permalink: /publication/IJRNC1
-date: 2024
+date: 2024-07-01
 venue: 'International Journal of Robust and Nonlinear Control'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.7341'
 citation: 'Wu, J., Dai, L., & Xia, Y. (2024). Iterative distributed model predictive control for heterogeneous systems with non-convex coupled constraints. Automatica, 166, 111700.'
