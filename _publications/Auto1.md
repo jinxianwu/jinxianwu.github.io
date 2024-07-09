@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/Auto1
 date: 2024-08-01
 venue: 'Automatica (Regular paper)'
+excerpt: 'This paper investigates the distributed model predictive control (DMPC) problem for multiple dynamically-decoupled heterogeneous linear systems subject to both local state and input constraints and coupled non-convex constraints (e.g., collision avoidance constraints).'
 slidesurl: # sd
 paperurl: https://www.sciencedirect.com/science/article/pii/S0005109824001948
 citation: 'Wu, J., Dai, L., & Xia, Y. (2024). Iterative distributed model predictive control for heterogeneous systems with non-convex coupled constraints. Automatica, 166, 111700.'
