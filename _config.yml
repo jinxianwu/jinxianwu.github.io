@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jinxian Wu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Jinxian Wu"
+  pronouns         : "he/his"  
+  bio              : "Beijing Institute of Technology"
+  location         : "Beijing, China"
   employer         : "Red Brick University"
-  uri              : # URL
+  uri              : https://jinxianwu.github.io
   email            : "none@example.org" 
 
   # Academic websites
