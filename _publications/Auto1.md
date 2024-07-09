@@ -2,7 +2,6 @@
 title: "Iterative distributed model predictive control for heterogeneous systems with non-convex coupled constraints"
 collection: publications
 permalink: /publication/Auto1
-excerpt: # balabala
 date: 2024-08-01
 venue: 'Automatica (Regular paper)'
 slidesurl: # sd
