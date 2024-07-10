@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Statement"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
 ======
 * Ph.D in Beijing Institute of Technology, Beijing, China, 2026 (expected)
 * M.Eng. in Beijing Institute of Technology, Beijing, China, 2022
