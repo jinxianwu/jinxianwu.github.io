@@ -8,4 +8,4 @@ date: 2022-08-01
 location: "Kunming, Yunnan, China"
 ---
 
-This paper won the **Best Theory Paper Award** of China Automation Congress 2021.
+This talk (paper) won the **Best Theory Paper Award** of China Automation Congress 2021.
