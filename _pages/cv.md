@@ -27,12 +27,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Honors & Awards
 ======
 * Best Paper Award of CAC 2021 (Top 1%), Chinese Association of Automation, 2021
