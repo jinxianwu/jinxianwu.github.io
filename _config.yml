@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jinxian Wu's Personal Homepage"
+title                    : "Jinxian Wu"
 title_separator          : "-"
 name                     : &name "Jinxian Wu"
 description              : &description "personal description"
