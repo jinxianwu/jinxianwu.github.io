@@ -10,4 +10,5 @@ location: "Kunming, Yunnan, China"
 
 This talk (paper) won the **Best Theory Paper Award** of China Automation Congress 2021.
 
-![image](../images/CAC.png =600x)
+<div align=center>  <img src="..\images\CAC.png" width=30%> </div>
+
