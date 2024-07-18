@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jinxian Wu"
+  name             : "Jinxian Wu (吴近贤)"
   pronouns         : # URL
-  bio              : "Ph.D. student at BIT"
+  bio              : "Ph.D. student at BIT <br> School of Automation"
   location         : "Beijing, China"
   employer         : # URL
   uri              : # URL
