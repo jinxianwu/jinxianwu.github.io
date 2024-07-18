@@ -1,10 +1,14 @@
 ---
 layout: archive
-title: "Publications (*: Corresponding author)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+*: Corresponding author
+
 {% include base_path %}
+
+<br>
 
 Journal Papers
 ======
