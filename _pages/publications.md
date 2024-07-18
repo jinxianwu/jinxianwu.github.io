@@ -12,10 +12,19 @@ Journal Papers
 ======
 
 [J4] **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). Iterative Non-Convex Distributed MPC with Flexible Termination Strategy, conditionally accepted by _IEEE Transactions on Automatic Control_ as **Full paper**.
-[J3] **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). [Iterative Distributed Model Predictive Control for Heterogeneous Systems with Non-convex Coupled Constraints]{https://www.sciencedirect.com/science/article/pii/S0005109824001948}. _Automatica_, 166, 111700, **(Regular Paper)**.
-    \item[{[J2]}] \textbf{Jinxian Wu}, Li Dai, \& Yuanqing Xia. (2024). \href{https://onlinelibrary.wiley.com/doi/10.1002/rnc.7341}{Iterative Distributed Model Predictive Control for Nonlinear Systems with Coupled Non-convex Constraints and Costs}, \textit{International Journal of Robust and Nonlinear Control}, 34(11), 7220-7244.
-    \item[{[J1]}] Li Dai, Yaling Ma, Runze Gao, \textbf{Jinxian Wu}, \&  Yuanqing Xia. (2023). \href{https://ieeexplore.ieee.org/document/10022320}{Cloud-based Computational Model Predictive Control Using a Parallel Multi-block ADMM Approach.} \textit{IEEE Internet of Things Journal}, 10(12), 10326 - 10343.
 
+[J3] **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). [Iterative Distributed Model Predictive Control for Heterogeneous Systems with Non-convex Coupled Constraints](https://www.sciencedirect.com/science/article/pii/S0005109824001948). _Automatica_, 166, 111700, **Regular Paper**.
+
+[J2] **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). [Iterative Distributed Model Predictive Control for Nonlinear Systems with Coupled Non-convex Constraints and Costs](https://onlinelibrary.wiley.com/doi/10.1002/rnc.7341). _International Journal of Robust and Nonlinear Control_, 34(11), 7220-7244.
+
+[J1] Li Dai, Yaling Ma, Runze Gao, **Jinxian Wu**, &  Yuanqing Xia. (2023). [Cloud-based Computational Model Predictive Control Using a Parallel Multi-block ADMM Approach](https://ieeexplore.ieee.org/document/10022320). _IEEE Internet of Things Journal_, 10(12), 10326 - 10343.
+
+Conference Papers
+======
+
+[C2] Zixuan Fan, **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2023). [Trajectory Planning Based on MINVO Basis for Autonomous Vehicles in Lane Change Scenarios](https://ieeexplore.ieee.org/abstract/document/10239733). In _Proceedings of the 2023 Chinese Control Conference_. IEEE.  
+    
+[C1] **Jinxian Wu**, Li Dai, Yaling Ma, Weidong Zou, & Yuanqing Xia. (2021). [Distributed Fuzzy Clustering Based Association Rule Mining: Design, Deployment and Implementation](https://ieeexplore.ieee.org/document/9728421). In _Proceedings of the 2021 China Automation Congress_. **(Best paper award)**
 
 Manuscripts
 ======
