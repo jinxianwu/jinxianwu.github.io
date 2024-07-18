@@ -1,13 +1,13 @@
 # main links links
-main:
-  - title: "Statement"
-    url: /cv/
-    
+main:    
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
+
+  # - title: "Statement"
+  #   url: /cv/
 
   # - title: "Teaching"
   #   url: /teaching/    
