@@ -22,7 +22,6 @@ Honors & Awards
 * Outstanding Master Student (Top 1%), Beijing Institute of Technology, 2021
 * Outstanding Graduates (Top 1%), Beijing Institute of Technology, 2022
 
+=====
 
 You can find my CV here: [Jinxian Wu's Curriculum Vitae](../assets/CV.pdf)
-
-[Email](mailto:jinxianwu@bit.edu.cn) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=8NIQBqsAAAAJ)
