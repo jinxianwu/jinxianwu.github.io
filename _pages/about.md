@@ -23,4 +23,4 @@ Honors & Awards
 * Outstanding Graduates (Top 1%), Beijing Institute of Technology, 2022
 
 
-You can find my CV here: [Jinxian Wu's Curriculum Vitae](../assets/CV.pdf)
+You can find my CV here: [Jinxian Wu's Curriculum Vitae](../assets/Curriculum_Vitae_of_Jinxian_Wu.pdf)
