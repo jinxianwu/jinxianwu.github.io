@@ -8,11 +8,14 @@ author_profile: true
 
 {% include base_path %}
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Journal Papers
+======
 
-{% include base_path %}
+[J4] **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). Iterative Non-Convex Distributed MPC with Flexible Termination Strategy, conditionally accepted by _IEEE Transactions on Automatic Control_ as **Full paper**.
+[J3] **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). [Iterative Distributed Model Predictive Control for Heterogeneous Systems with Non-convex Coupled Constraints]{https://www.sciencedirect.com/science/article/pii/S0005109824001948}. _Automatica_, 166, 111700, **(Regular Paper)**.
+    \item[{[J2]}] \textbf{Jinxian Wu}, Li Dai, \& Yuanqing Xia. (2024). \href{https://onlinelibrary.wiley.com/doi/10.1002/rnc.7341}{Iterative Distributed Model Predictive Control for Nonlinear Systems with Coupled Non-convex Constraints and Costs}, \textit{International Journal of Robust and Nonlinear Control}, 34(11), 7220-7244.
+    \item[{[J1]}] Li Dai, Yaling Ma, Runze Gao, \textbf{Jinxian Wu}, \&  Yuanqing Xia. (2023). \href{https://ieeexplore.ieee.org/document/10022320}{Cloud-based Computational Model Predictive Control Using a Parallel Multi-block ADMM Approach.} \textit{IEEE Internet of Things Journal}, 10(12), 10326 - 10343.
+
 
 Manuscripts
 ======
