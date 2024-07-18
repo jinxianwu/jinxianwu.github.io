@@ -12,6 +12,8 @@ author_profile: true
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+{% include base_path %}
+
 Manuscripts
 ======
 
