@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/CAC_best
 venue: "Kunming Haigeng venue"
-date: 2022-08-01
+date: 2022-08-13
 location: "Kunming, Yunnan, China"
 ---
 
