@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-( **\*** : Corresponding author)
+**( * : Corresponding author)**
 
 {% include base_path %}
 
