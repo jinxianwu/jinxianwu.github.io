@@ -29,7 +29,7 @@ Conference Papers
 Manuscripts
 ======
 
-[M4] **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Distributed Quasi-Newton Method for Nonlinear Optimization-Based Control, submitted to _Automatica_ as **Regular paper**.
+[M4] **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Distributed Quasi-Newton Method for Nonlinear Optimization-Based Control, submitted to _Automatica_ as Regular paper.
 
 [M3] **Jinxian Wu**, Li Dai, Songshi Dou, & Yuanqing Xia. (2024). Accelerated Successive Convex Approximation for Nonlinear Optimization-Based Control, submitted to _IEEE Transactions on Automatic Control_.
 
