@@ -13,6 +13,8 @@ Journal Papers
 
 [J4] **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). Iterative Non-Convex Distributed MPC with Flexible Termination Strategy, conditionally accepted by _IEEE Transactions on Automatic Control_ as **Full paper**.
 
+[Jsdf] **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0005109824001948" target="_blank"> Iterative Distributed Model Predictive Control for Heterogeneous Systems with Non-convex Coupled Constraints.</a> _Automatica_, 166, 111700, **Regular paper**.
+
 [J3] **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). [Iterative Distributed Model Predictive Control for Heterogeneous Systems with Non-convex Coupled Constraints](https://www.sciencedirect.com/science/article/pii/S0005109824001948). _Automatica_, 166, 111700, **Regular paper**.
 
 [J2] **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). [Iterative Distributed Model Predictive Control for Nonlinear Systems with Coupled Non-convex Constraints and Costs](https://onlinelibrary.wiley.com/doi/10.1002/rnc.7341). _International Journal of Robust and Nonlinear Control_, 34(11), 7220-7244.
