@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at [School of Automation](https://ac.bit.edu.cn/), [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), and I am supervised by [Prof. Li Dai](https://scholar.google.com.hk/citations?user=WDrzqT8AAAAJ&hl=zh-CN) and [Prof. Yuanqing Xia](https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao). 
+I am a third-year Ph.D. student at <a href="https://ac.bit.edu.cn/" target="_blank">School of Automation</a>, <a href="https://english.bit.edu.cn/" target="_blank">Beijing Institute of Technology (BIT)</a>, and I am supervised by <a href="https://scholar.google.com.hk/citations?user=WDrzqT8AAAAJ&hl=zh-CN" target="_blank">Prof. Li Dai</a> and <a href="https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao" target="_blank">Prof. Yuanqing Xia</a>.
 
 My research focuses on distributed model predictive control (DMPC), specifically on the iterative DMPC methods for linear or nonlinear systems with nonlinear coupled constraints or costs, and the distributed optimization methods for DMPC.
 
@@ -25,4 +25,4 @@ Honors & Awards
 * Outstanding Graduates (Top 1%), Beijing Institute of Technology, 2022
 
 
-You can find my CV here: [Jinxian Wu's Curriculum Vitae](../assets/Curriculum_Vitae_of_Jinxian_Wu.pdf)
+You can find my CV here: <a href="../assets/Curriculum_Vitae_of_Jinxian_Wu.pdf" target="_blank">Jinxian Wu's Curriculum Vitae</a>
