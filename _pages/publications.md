@@ -10,6 +10,7 @@ author_profile: true
 
 Journal Papers
 ======
+**[J5]** **Jinxian Wu**, Li Dai, Songshi Dou, & Yuanqing Xia. (2024). Accelerated Successive Convex Approximation for Nonlinear Optimization-Based Control, conditionally accepted by _IEEE Transactions on Automatic Control_ as Technical note.
 
 **[J4]** **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). Iterative Non-Convex Distributed MPC with Flexible Termination Strategy, conditionally accepted by _IEEE Transactions on Automatic Control_ as **Full paper**.
 
@@ -29,9 +30,7 @@ Conference Papers
 Manuscripts
 ======
 
-**[M4]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Distributed Quasi-Newton Method for Nonlinear Optimization-Based Control, submitted to _Automatica_ as Regular paper.
-
-**[M3]** **Jinxian Wu**, Li Dai, Songshi Dou, & Yuanqing Xia. (2024). Accelerated Successive Convex Approximation for Nonlinear Optimization-Based Control, submitted to _IEEE Transactions on Automatic Control_.
+**[M3]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Distributed Quasi-Newton Method for Nonlinear Optimization-Based Control, submitted to _Automatica_ as Regular paper.
 
 **[M2]** Songshi Dou, **Jinxian Wu***,  Shengyu Zhang, Xianhao Chen, & Lawrence K. Yeung. (2024). Towards QoS-aware and Predictable Load Balancing in Low Earth Orbit Mega-Constellations with Matchmaker, submitted to _IEEE Transactions on Mobile Computing_.
 
