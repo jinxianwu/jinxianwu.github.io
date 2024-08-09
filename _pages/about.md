@@ -20,9 +20,9 @@ Education
 
 Honors & Awards
 ======
-* Best Paper Award of CAC 2021 (Top 1%), Chinese Association of Automation, 2021
-* Outstanding Master Student (Top 1%), Beijing Institute of Technology, 2021
-* Outstanding Graduates (Top 1%), Beijing Institute of Technology, 2022
+* Best Paper Award of CAC 2021, Chinese Association of Automation, 2021
+* Outstanding Master Student, Beijing Institute of Technology, 2021
+* Outstanding Graduates, Beijing Institute of Technology, 2022
 
 
 You can find my CV here: <a href="../assets/Curriculum_Vitae_of_Jinxian_Wu.pdf" target="_blank">Jinxian Wu's Curriculum Vitae</a>
