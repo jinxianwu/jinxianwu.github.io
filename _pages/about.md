@@ -41,7 +41,6 @@ News
     <li>One paper is accepted by <em>Automatica</em> as Regular Paper.</li>
     <li>One paper is accepted by <em>International Journal of Nonlinear and Robust Control</em>.</li>
   </p>
-  
 </div>
 
 
