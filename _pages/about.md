@@ -24,5 +24,20 @@ Honors & Awards
 * Outstanding Master Student, Beijing Institute of Technology, 2021
 * Outstanding Graduates, Beijing Institute of Technology, 2022
 
-
 You can find my CV here: <a href="../assets/Curriculum_Vitae_of_Jinxian_Wu.pdf" target="_blank">Jinxian Wu's Curriculum Vitae</a>
+
+<div style="background-color: #FFFFCC; padding: 15px; border-radius: 10px;">
+### News
+
+**08/2024:**
+- One paper is accepted by _IEEE Transactions on Automatic Control_.
+
+**07/2024:**
+- One paper is accepted by _IEEE Transactions on Automatic Control_ as Full Paper.
+
+**04/2024:**
+- One paper is accepted by _Automatica_ as Regular Paper.
+
+**04/2024:**
+- One paper is accepted by _International Journal of Nonlinear and Robust Control_.
+</div>
