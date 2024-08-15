@@ -28,61 +28,20 @@ You can find my CV here: <a href="../assets/Curriculum_Vitae_of_Jinxian_Wu.pdf" 
 
 News
 ======
-<div style="background-color: #FFFFCC; padding: 15px; border-radius: 10px;">
+<div style="background-color: #f3f3f3; padding: 15px; border-radius: 10px;">
  
   <p>
-    <strong style="color: #FF9933;">07/2024:</strong><br>
-    <span style="margin-left: 20px;">EPIC is accepted by IEEE/ACM Transactions on Networking.</span><br>
-    <span style="margin-left: 20px;">One paper is accepted by IEEE Transactions on Automatic Control.</span>
+    <strong style="color: #494e52;">07/2024:</strong><br>
+    <span style="margin-left: 20px;">One paper is accepted by <em>IEEE Transactions on Automatic Control</em> as Full Paper.</span><br>
+    <span style="margin-left: 20px;">One paper is accepted by <em>IEEE Transactions on Automatic Control</em>.</span>
   </p>
   
   <p>
-    <strong style="color: #FF9933;">04/2024:</strong><br>
-    <span style="margin-left: 20px;">TEACHER is accepted by IEEE/ACM Transactions on Networking.</span>
+    <strong style="color: #494e52;">04/2024:</strong><br>
+    <span style="margin-left: 20px;">One paper is accepted by <em>Automatica</em> as Regular Paper.</span><br>
+    <span style="margin-left: 20px;">One paper is accepted by <em>International Journal of Nonlinear and Robust Control</em> as Regular Paper.</span>
   </p>
   
-  <p>
-    <strong style="color: #FF9933;">03/2024:</strong><br>
-    <span style="margin-left: 20px;">SpaceCache is accepted by IEEE ICME 2024.</span>
-  </p>
-  
-  <p>
-    <strong style="color: #FF9933;">02/2024:</strong><br>
-    <span style="margin-left: 20px;">One survey paper is accepted by IEEE Communications Magazine.</span>
-  </p>
-  
-  <p>
-    <strong style="color: #FF9933;">01/2024:</strong><br>
-    <span style="margin-left: 20px;">ARES is accepted by ACM WWW 2024.</span><br>
-    <span style="margin-left: 20px;">One paper is accepted by IEEE ICC 2024.</span>
-  </p>
-  
-  <p>
-    <strong style="color: #FF9933;">11/2023:</strong><br>
-    <span style="margin-left: 20px;">PREDATOR is accepted by Elsevier Computer Networks.</span><br>
-    <span style="margin-left: 20px;">THOR is accepted by IEEE Transactions on Network and Service Management.</span>
-  </p>
-  
-  <p>
-    <strong style="color: #FF9933;">06/2023:</strong><br>
-    <span style="margin-left: 20px;">Prophet is accepted by IEEE/ACM Transactions on Networking.</span>
-  </p>
-  
-  <p>
-    <strong style="color: #FF9933;">05/2023:</strong><br>
-    <span style="margin-left: 20px;">PG is accepted by IEEE/ACM Transactions on Networking.</span>
-  </p>
-  
-  <p>
-    <strong style="color: #FF9933;">03/2023:</strong><br>
-    <span style="margin-left: 20px;">RateSheriff is accepted by IEEE/ACM IWQoS 2023.</span>
-  </p>
-  
-  <p>
-    <strong style="color: #FF9933;">02/2023:</strong><br>
-    <span style="margin-left: 20px;">Received Outstanding Master's Thesis of Chinese Institute of Electronics.</span><br>
-    <span style="margin-left: 20px;">PE is accepted by IEEE/ACM Transactions on Networking.</span>
-  </p>
 </div>
 
 
