@@ -32,14 +32,14 @@ News
  
   <p>
     <strong style="color: #494e52;">07/2024:</strong><br>
-    <span style="margin-left: 20px;">One paper is conditionally accepted by <em>IEEE Transactions on Automatic Control</em> as Full Paper.</span><br>
-    <span style="margin-left: 20px;">One paper is conditionally accepted by <em>IEEE Transactions on Automatic Control</em>.</span>
+    <span style="margin-left: 20px;"><li>One paper is conditionally accepted by <em>IEEE Transactions on Automatic Control</em> as Full Paper.</li></span><br>
+    <span style="margin-left: 20px;"><li>One paper is conditionally accepted by <em>IEEE Transactions on Automatic Control</em>.</li></span>
   </p>
   
   <p>
     <strong style="color: #494e52;">04/2024:</strong><br>
-    <span style="margin-left: 20px;">One paper is accepted by <em>Automatica</em> as Regular Paper.</span><br>
-    <span style="margin-left: 20px;">One paper is accepted by <em>International Journal of Nonlinear and Robust Control</em>.</span>
+    <span style="margin-left: 20px;"><li>One paper is accepted by <em>Automatica</em> as Regular Paper.</li></span><br>
+    <span style="margin-left: 20px;"><li>One paper is accepted by <em>International Journal of Nonlinear and Robust Control</em>.</li></span>
   </p>
   
 </div>
