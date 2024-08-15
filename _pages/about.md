@@ -39,7 +39,7 @@ News
   <p>
     <strong style="color: #494e52;">04/2024:</strong><br>
     <span style="margin-left: 20px;">One paper is accepted by <em>Automatica</em> as Regular Paper.</span><br>
-    <span style="margin-left: 20px;">One paper is accepted by <em>International Journal of Nonlinear and Robust Control</em> as Regular Paper.</span>
+    <span style="margin-left: 20px;">One paper is accepted by <em>International Journal of Nonlinear and Robust Control</em>.</span>
   </p>
   
 </div>
