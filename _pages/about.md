@@ -11,6 +11,8 @@ I am a third-year Ph.D. student at <a href="https://ac.bit.edu.cn/" target="_bla
 
 My research focuses on distributed model predictive control (DMPC), specifically on the iterative DMPC methods for linear or nonlinear systems with nonlinear coupled constraints or costs, and the distributed optimization methods for DMPC.
 
+You can find my CV here: <a href="../assets/Curriculum_Vitae_of_Jinxian_Wu.pdf" target="_blank">Jinxian Wu's Curriculum Vitae</a>
+
 Education
 ======
 
@@ -23,8 +25,6 @@ Honors & Awards
 * Best Paper Award of CAC 2021, Chinese Association of Automation, 2021
 * Outstanding Master Student, Beijing Institute of Technology, 2021
 * Outstanding Graduates, Beijing Institute of Technology, 2022
-
-You can find my CV here: <a href="../assets/Curriculum_Vitae_of_Jinxian_Wu.pdf" target="_blank">Jinxian Wu's Curriculum Vitae</a>
 
 News
 ======
