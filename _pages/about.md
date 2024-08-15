@@ -32,10 +32,8 @@ News
  
   <p>
     <strong style="color: #494e52;">07/2024:</strong>
-    <li>One paper is conditionally accepted by <span style="font-variant: small-caps;">IEEE Transactions on Automatic Control</span>
- as Full Paper.</li>
-    <li>One paper is conditionally accepted by <span style="font-variant: small-caps;">IEEE Transactions on Automatic Control</span>
-.</li>
+    <li>One paper is conditionally accepted by <span style="font-variant: small-caps;">IEEE Transactions on Automatic Control</span> as Full Paper.</li>
+    <li>One paper is conditionally accepted by <span style="font-variant: small-caps;">IEEE Transactions on Automatic Control</span>.</li>
   </p>
   <p>
     <strong style="color: #494e52;">04/2024:</strong>
