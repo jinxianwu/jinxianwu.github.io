@@ -31,9 +31,13 @@ Conference Papers
 Manuscripts
 ======
 
-**[M3]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Distributed Quasi-Newton Method for Nonlinear Optimization-Based Control, submitted to _Automatica_ as Regular paper.
+**[M5]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Distributed Quasi-Newton Method for Nonlinear Optimization-Based Control, submitted to _Automatica_ as Regular paper.
 
-**[M2]** Songshi Dou, **Jinxian Wu***,  Shengyu Zhang, Xianhao Chen, & Lawrence K. Yeung. (2024). Towards QoS-aware and Predictable Load Balancing in Low Earth Orbit Mega-Constellations with Matchmaker, submitted to _IEEE Transactions on Mobile Computing_.
+**[M4]** Songshi Dou, **Jinxian Wu***,  Shengyu Zhang, Xianhao Chen, & Lawrence K. Yeung. (2025). Towards QoS-aware and Predictable Load Balancing in Low Earth Orbit Mega-Constellations with Matchmaker, submitted to _IEEE Transactions on Mobile Computing_.
+
+**[M3]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, **Jinxian Wu**, Jie Lin, & Li Dai. (2025). Nonlinear Model Predictive Control using Sequential Convex Programming, submitted to _IEEE Transactions on Automatic Control_.
+
+**[M2]** Chenlong Fu, **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2025). Distributed MPC-based Trajectory Tracking Control for a Multi-quadrotor UAV Slung Load System, submitted to _Journal of the Franklin Institute_.
 
 **[M1]** Pushen Cai, Huahui Xie, **Jinxian Wu**, & Li Dai. (2024). Distributed Model Predictive Control of Multi-Agent Systems for Tracking Periodic Unreachable Trajectory with Collision Avoidance, submitted to _Journal of the Franklin Institute_.
 
