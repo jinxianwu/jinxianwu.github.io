@@ -37,7 +37,7 @@ Manuscripts
 
 **[M3]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, **Jinxian Wu**, Jie Lin, & Li Dai. (2025). Nonlinear Model Predictive Control using Sequential Convex Programming, submitted to _IEEE Transactions on Automatic Control_.
 
-**[M2]** Chenlong Fu, **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2025). Distributed MPC-based Trajectory Tracking Control for a Multi-quadrotor UAV Slung Load System, submitted to _Journal of the Franklin Institute_.
+**[M2]** Chenlong Fu, **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2025). Distributed MPC-based Trajectory Tracking Control for a Multi-quadrotor UAV Slung Load System, submitted to _International Journal of Robust and Nonlinear Control_.
 
 **[M1]** Pushen Cai, Huahui Xie, **Jinxian Wu**, & Li Dai. (2024). Distributed Model Predictive Control of Multi-Agent Systems for Tracking Periodic Unreachable Trajectory with Collision Avoidance, submitted to _Journal of the Franklin Institute_.
 
