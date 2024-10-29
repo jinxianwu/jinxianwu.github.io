@@ -31,7 +31,7 @@ Conference Papers
 Manuscripts
 ======
 
-**[M5]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Distributed Quasi-Newton Method for Nonlinear Optimization-Based Control, submitted to _Automatica_ as Regular paper.
+**[M5]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Distributed Quasi-Newton Method for Nonlinear Optimization-Based Control, submitted to _Automatica_.
 
 **[M4]** Songshi Dou, **Jinxian Wu***,  Shengyu Zhang, Xianhao Chen, & Lawrence K. Yeung. (2025). Towards QoS-aware and Predictable Load Balancing in Low Earth Orbit Mega-Constellations with Matchmaker, submitted to _IEEE Transactions on Mobile Computing_.
 
