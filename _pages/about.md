@@ -31,7 +31,7 @@ News
 <div style="background-color: #f3f3f3; padding: 15px; border-radius: 10px;">
 
   <p>
-    <strong style="color: #494e52;">08/2024:</strong>
+    <strong style="color: #494e52;">10/2024:</strong>
     <li>One paper is accepted by <em>IEEE Transactions on Automatic Control</em> as Full Paper.</li>
   </p>
   <p>
