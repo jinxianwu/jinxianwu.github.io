@@ -28,16 +28,4 @@ Conference Papers
 
 **[C1]** **Jinxian Wu**, Li Dai, Yaling Ma, Weidong Zou, & Yuanqing Xia. (2021). <a href="https://ieeexplore.ieee.org/document/9728421" target="_blank"> Distributed Fuzzy Clustering Based Association Rule Mining: Design, Deployment and Implementation.</a> In _Proceedings of the 2021 China Automation Congress_. **(Best paper award)**
 
-Manuscripts
-======
-
-**[M5]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Distributed Quasi-Newton Method for Nonlinear Optimization-Based Control.
-
-**[M4]** Songshi Dou, **Jinxian Wu***,  Shengyu Zhang, Xianhao Chen, & Lawrence K. Yeung. (2025). Towards QoS-aware and Predictable Load Balancing in Low Earth Orbit Mega-Constellations with Matchmaker.
-
-**[M3]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, **Jinxian Wu**, Jie Lin, & Li Dai. (2025). Nonlinear Model Predictive Control using Sequential Convex Programming.
-
-**[M2]** Chenlong Fu, **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2025). Distributed MPC-based Trajectory Tracking Control for a Multi-quadrotor UAV Slung Load System.
-
-**[M1]** Pushen Cai, Huahui Xie, **Jinxian Wu**, & Li Dai. (2024). Distributed Model Predictive Control of Multi-Agent Systems for Tracking Periodic Unreachable Trajectory with Collision Avoidance.
 
