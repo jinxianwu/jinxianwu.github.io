@@ -32,6 +32,10 @@ News
 <div style="background-color: #f3f3f3; padding: 15px; border-radius: 10px;">
 
   <p>
+    <strong style="color: #494e52;">11/2024:</strong>
+    <li>I received funding through the BIT Research and Innovation Promotion Project (Grant No.2024YCXY035).</li>
+  </p>
+  <p>
     <strong style="color: #494e52;">10/2024:</strong>
     <li>One paper is accepted by <em>IEEE Transactions on Automatic Control</em> as Full Paper.</li>
   </p>
