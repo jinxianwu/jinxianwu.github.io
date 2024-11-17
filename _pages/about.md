@@ -13,7 +13,6 @@ My research focuses on distributed model predictive control (DMPC), specifically
 
 Education
 ======
-
 * Ph.D in Beijing Institute of Technology, Beijing, China, 2026 (expected)
 * M.Eng. in Beijing Institute of Technology, Beijing, China, 2022
 * B.Eng. in Qingdao University, Shandong, China, 2019
