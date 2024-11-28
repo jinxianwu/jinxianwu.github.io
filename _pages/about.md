@@ -30,7 +30,7 @@ News
 
   <p>
     <strong style="color: #494e52;">11/2024:</strong>
-    <li>I received funding through the BIT Research and Innovation Promotion Project (Grant No.2024YCXY035).</li>
+    <li>Received funding through the BIT Research and Innovation Promotion Project (Grant No.2024YCXY035).</li>
   </p>
   <p>
     <strong style="color: #494e52;">10/2024:</strong>
