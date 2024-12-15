@@ -4,12 +4,7 @@
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
-/* 设置全局字体 */
-html, body {
-    font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
-    line-height: 1.6; /* 让文字看起来更整齐 */
-    color: #333; /* 文字颜色 */
-}
+
 @font-face {
     font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
     font-style: normal;
@@ -574,4 +569,11 @@ border-radius: .1em;
 }
 .ai-inverse {
   color: #fff;
+}
+
+/* 设置全局字体 */
+html, body {
+    font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
+    line-height: 1.6; /* 让文字看起来更整齐 */
+    color: #333; /* 文字颜色 */
 }
