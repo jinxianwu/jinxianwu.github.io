@@ -6,7 +6,7 @@
  */
 
 @font-face {
-    font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
+    font-family: 'Academicons';
     font-style: normal;
     font-weight: 400;
     font-display: block;
@@ -17,7 +17,7 @@
         url('../fonts/academicons.svg') format('svg');
 }
 .ai {
-  font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
+  font-family: 'Academicons';
   font-weight: 400;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -569,12 +569,4 @@ border-radius: .1em;
 }
 .ai-inverse {
   color: #fff;
-}
-
-/* 设置全局字体 */
-html, body {
-    font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
-    font-size: 10em;
-    line-height: 1.6; /* 让文字看起来更整齐 */
-    color: #333; /* 文字颜色 */
 }
