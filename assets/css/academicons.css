@@ -574,6 +574,7 @@ border-radius: .1em;
 /* 设置全局字体 */
 html, body {
     font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
+    font-size: 10em;
     line-height: 1.6; /* 让文字看起来更整齐 */
     color: #333; /* 文字颜色 */
 }
