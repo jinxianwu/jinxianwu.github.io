@@ -6,12 +6,12 @@
  */
 /* 设置全局字体 */
 html, body {
-    font-family: Consolas,monaco,monospace;
+    font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
     line-height: 1.6; /* 让文字看起来更整齐 */
     color: #333; /* 文字颜色 */
 }
 @font-face {
-    font-family: Consolas,monaco,monospace;
+    font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
     font-style: normal;
     font-weight: 400;
     font-display: block;
@@ -22,7 +22,7 @@ html, body {
         url('../fonts/academicons.svg') format('svg');
 }
 .ai {
-  font-family: Consolas,monaco,monospace;
+  font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; 
   font-weight: 400;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
