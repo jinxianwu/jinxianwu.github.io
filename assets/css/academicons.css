@@ -4,6 +4,12 @@
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
+/* 设置全局字体 */
+html, body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    line-height: 1.6; /* 让文字看起来更整齐 */
+    color: #333; /* 文字颜色 */
+}
 @font-face {
     font-family:  "Trebuchet MS", Helvetica, sans-serif;
     font-style: normal;
