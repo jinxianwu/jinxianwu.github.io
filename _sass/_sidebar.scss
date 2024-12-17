@@ -42,12 +42,12 @@
   }
 
   h3, h4 {
-    font-size: $type-size-4;
+    font-size: $type-size-3;
   }
 
   p, li {
     font-family: Trebuchet MS;
-    font-size: $type-size-5;
+    font-size: $type-size-4;
     line-height: 1.5;
   }
 
@@ -125,7 +125,7 @@
 }
 .sidebar .author__name {
   font-family: Trebuchet MS;
-  font-size: $type-size-4;
+  font-size: $type-size-3;
 }
 
 .sidebar .author__desktop {
@@ -250,7 +250,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-4;
+    font-size: $type-size-3;
     text-decoration: none;
 
     &:hover {
