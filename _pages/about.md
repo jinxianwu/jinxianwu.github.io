@@ -30,7 +30,7 @@ News
 
   <p>
     <strong style="color: #494e52;">12/2024:</strong>
-    <li>Awarded the Huawei Scholarship for graduate students in 2026 at the Beijing Institute of Technology.</li>
+    <li>Awarded the Huawei Scholarship for prospective graduate students in 2026.</li>
   </p>
   <p>
     <strong style="color: #494e52;">11/2024:</strong>
