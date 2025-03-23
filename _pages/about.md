@@ -29,6 +29,11 @@ News
 <div style="background-color: #f3f3f3; padding: 15px; border-radius: 10px;">
 
   <p>
+    <strong style="color: #494e52;">03/2025:</strong>
+    <li>One paper is accepted by <em>IEEE Transactions on Automatic Control</em> as Technical Note.</li>
+    <li>不要长颈鹿了，SSD</li>
+  </p>
+  <p>
     <strong style="color: #494e52;">12/2024:</strong>
     <li>Awarded the Huawei Scholarship for prospective graduate students in 2026.</li>
   </p>
