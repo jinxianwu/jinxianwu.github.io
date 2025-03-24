@@ -11,9 +11,9 @@ author_profile: true
 Journal Papers
 ======
 
-**[J5]** **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2025). <a href="https://ieeexplore.ieee.org/document/10740673" target="_blank"> Iterative Non-Convex Distributed MPC with Flexible Termination Strategy.</a> _IEEE Transactions on Automatic Control_ (**Full paper**), early access, doi: 10.1109/TAC.2024.3489752.
+**[J5]** **Jinxian Wu**, Li Dai, Songshi Dou, & Yuanqing Xia. (2025). Accelerated Successive Convex Approximation for Nonlinear Optimization-Based Control, _IEEE Transactions on Automatic Control_, In press.
 
-**[J4]** **Jinxian Wu**, Li Dai, Songshi Dou, & Yuanqing Xia. (2025). Accelerated Successive Convex Approximation for Nonlinear Optimization-Based Control, conditionally accepted by _IEEE Transactions on Automatic Control_.
+**[J4]** **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2025). <a href="https://ieeexplore.ieee.org/document/10740673" target="_blank"> Iterative Non-Convex Distributed MPC with Flexible Termination Strategy.</a> _IEEE Transactions on Automatic Control_ (**Full paper**), early access, doi: 10.1109/TAC.2024.3489752.
 
 **[J3]** **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0005109824001948" target="_blank"> Iterative Distributed Model Predictive Control for Heterogeneous Systems with Non-convex Coupled Constraints.</a> _Automatica_ (**Regular paper**), 166, 111700.
 
