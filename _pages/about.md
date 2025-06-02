@@ -30,6 +30,10 @@ News
 
   <p>
     <strong style="color: #494e52;">03/2025:</strong>
+    <li>One paper is accepted by <em>IEEE Robotics and Automation Letters</em>.</li>
+  </p>
+  <p>
+    <strong style="color: #494e52;">03/2025:</strong>
     <li>One paper is accepted by <em>IEEE Transactions on Automatic Control</em> as Technical Note.</li>
   </p>
   <p>
