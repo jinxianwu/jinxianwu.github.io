@@ -29,7 +29,7 @@ News
 <div style="background-color: #f3f3f3; padding: 15px; border-radius: 10px;">
 
   <p>
-    <strong style="color: #494e52;">03/2025:</strong>
+    <strong style="color: #494e52;">06/2025:</strong>
     <li>One paper is accepted by <em>IEEE Robotics and Automation Letters</em>.</li>
   </p>
   <p>
