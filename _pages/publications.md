@@ -11,9 +11,9 @@ author_profile: true
 Journal Papers
 ======
 
-**[J7]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Towards Improved Performance of Inner Convex Approximation for Suboptimal Nonlinear MPC, _IEEE Transactions on Cybernetics_, in Press.
+**[J7]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Towards Improved Performance of Inner Convex Approximation for Suboptimal Nonlinear MPC, _IEEE Transactions on Cybernetics_, early access, doi: 10.1109/TCYB.2025.3583588.
 
-**[J6]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, Yuan Zhang, **Jinxian Wu**, & Xiangyu Kong. (2025). Convex MPC with Unreachable Setpoint for A Class of Affine Systems, _IEEE Robotics and Automation Letters_, in Press.
+**[J6]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, Yuan Zhang, **Jinxian Wu**, & Xiangyu Kong. (2025). Convex MPC with Unreachable Setpoint for A Class of Affine Systems, _IEEE Robotics and Automation Letters_, early access, doi: 10.1109/LRA.2025.3583627.
 
 **[J5]** **Jinxian Wu**, Li Dai, Songshi Dou, & Yuanqing Xia. (2025). <a href="https://doi.org/10.1109/TAC.2025.3555375" target="_blank"> Accelerated Successive Convex Approximation for Nonlinear Optimization-Based Control. </a> _IEEE Transactions on Automatic Control_, early access, doi: 10.1109/TAC.2025.3555375.
 
