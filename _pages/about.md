@@ -30,6 +30,7 @@ News
 
   <p>
     <strong style="color: #494e52;">06/2025:</strong>
+    <li>One paper is accepted by <em>IEEE Transactions on Services Computing</em>.</li>
     <li>One paper is accepted by <em>IEEE Transactions on Cybernetics</em>.</li>
     <li>One paper is accepted by <em>IEEE Robotics and Automation Letters</em>.</li>
   </p>
