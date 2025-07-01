@@ -20,7 +20,7 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: Trebuchet MS;
+    font-family: Georgia, serif;
     font-size: $type-size-3;
 
     @include breakpoint($x-large) {
