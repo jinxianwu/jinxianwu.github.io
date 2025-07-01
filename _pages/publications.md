@@ -10,6 +10,7 @@ author_profile: true
 
 Journal Papers
 ======
+**[J8]** Songshi Dou, Shengyu Zhang, Zhenglong Li, **Jinxian Wu**,  Xianhao Chen, & Lawrence K. Yeung. (2025). SpaceCache+: Towards Pervasive Content Delivery via Low-Earth Orbit Mega-Constellations, _IEEE Transactions on Services Computing_, accepted.
 
 **[J7]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Towards Improved Performance of Inner Convex Approximation for Suboptimal Nonlinear MPC, _IEEE Transactions on Cybernetics_, doi: 10.1109/TCYB.2025.3583588, in press.
 
