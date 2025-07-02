@@ -10,7 +10,7 @@ author_profile: true
 
 Journal Papers
 
-<hr style="border: 2px solid black; margin-top: -10px;">
+<hr style="border: 1px solid black;">
 
 **[J8]** Songshi Dou, Shengyu Zhang, Zhenglong Li, **Jinxian Wu**,  Xianhao Chen, & Lawrence K. Yeung. (2025). <span style="font-variant: small-caps;">SpaceCache</span>+: Towards Pervasive Content Delivery via Low-Earth Orbit Mega-Constellations, _IEEE Transactions on Services Computing_, accepted.
 
