@@ -4,7 +4,7 @@ title: "Awards"
 author_profile: true
 redirect_from: 
   - /awards/
-  - /about.html
+  - /awards.html
 ---
 
 Honors & Awards
