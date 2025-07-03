@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "About me"
+title: "Awards"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /awards/
   - /about.html
 ---
 
