@@ -57,6 +57,4 @@ News
   </p>
 </div>
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjinxianwu.github.io&label=&icon=mouse&color=%23fff&message=&style=flat&tz=UTC)
-
 
