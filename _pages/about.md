@@ -57,6 +57,6 @@ News
   </p>
 </div>
 
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=jinxianwu.github.io&left_color=green&right_color=red)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjinxianwu.github.io&label=&icon=book&color=%23198754&message=&style=flat&tz=UTC)
 
 
