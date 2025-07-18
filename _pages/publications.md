@@ -13,7 +13,7 @@ Journal Papers
 
 **[J8]** Songshi Dou, Shengyu Zhang, Zhenglong Li, **Jinxian Wu**,  Xianhao Chen, & Lawrence K. Yeung. (2025). <span style="font-variant: small-caps;">SpaceCache</span>+: Towards Pervasive Content Delivery via Low-Earth Orbit Mega-Constellations, _IEEE Transactions on Services Computing_, accepted.
 
-**[J7]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). Towards Improved Performance of Inner Convex Approximation for Suboptimal Nonlinear MPC, _IEEE Transactions on Cybernetics_, doi: 10.1109/TCYB.2025.3583588, in press.
+**[J7]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). <a href="https://ieeexplore.ieee.org/document/11083122" target="_blank"> Towards Improved Performance of Inner Convex Approximation for Suboptimal Nonlinear MPC. </a> _IEEE Transactions on Cybernetics_, doi: 10.1109/TCYB.2025.3583588, early access.
 
 **[J6]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, Yuan Zhang, **Jinxian Wu**, & Xiangyu Kong. (2025). <a href="https://ieeexplore.ieee.org/document/11052755" target="_blank"> Convex MPC with Unreachable Setpoint for A Class of Affine Systems. </a> _IEEE Robotics and Automation Letters_, 10(8), 8340-8347.
 
