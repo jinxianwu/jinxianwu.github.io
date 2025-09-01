@@ -14,7 +14,7 @@ Journal Papers
 
 **[J6]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, Yuan Zhang, **Jinxian Wu**, & Xiangyu Kong. (2025). <a href="https://ieeexplore.ieee.org/document/11052755" target="_blank"> Convex MPC with Unreachable Setpoint for A Class of Affine Systems. </a> _IEEE Robotics and Automation Letters_, 10(8), 8340-8347.
 
-**[J5]** **Jinxian Wu**, Li Dai, Songshi Dou, & Yuanqing Xia. (2025). <a href="https://doi.org/10.1109/TAC.2025.3555375" target="_blank"> Accelerated Successive Convex Approximation for Nonlinear Optimization-Based Control. </a> _IEEE Transactions on Automatic Control_, doi: 10.1109/TAC.2025.3555375, early access.
+**[J5]** **Jinxian Wu**, Li Dai, Songshi Dou, & Yuanqing Xia. (2025). <a href="https://doi.org/10.1109/TAC.2025.3555375" target="_blank"> Accelerated Successive Convex Approximation for Nonlinear Optimization-Based Control. </a> _IEEE Transactions on Automatic Control_, 70(9), 6237 - 6244.
 
 **[J4]** **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2025). <a href="https://ieeexplore.ieee.org/document/10740673" target="_blank"> Iterative Non-Convex Distributed MPC with Flexible Termination Strategy.</a> _IEEE Transactions on Automatic Control_ (**Full paper**), 70(5), 3008-3023.
 
