@@ -22,6 +22,10 @@ News
 <div style="background-color: #f3f3f3; padding: 15px; border-radius: 10px;">
 
   <p>
+    <strong style="color: #494e52;">09/2025:</strong>
+    <li>One paper is accepted by <em>IEEE Transactions on Communication</em>.</li>
+  </p>
+  <p>
     <strong style="color: #494e52;">07/2025:</strong>
     <li>One paper is accepted by <em>IEEE Transactions on Services Computing</em>.</li>
   </p>
