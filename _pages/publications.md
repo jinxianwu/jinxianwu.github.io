@@ -7,6 +7,7 @@ author_profile: true
 
 Journal Papers
 ======
+**[J9]** Songshi Dou, **Jinxian Wu** *, Shengyu Zhang, Xianhao Chen, Tony Q.S. Quek, & Lawrence K. Yeung. (2025). <span style="font-variant: small-caps;">Matchmaker</span>: Maintaining QoS-aware and Predictable Load Balancing Performance for LEO Mega-Constellations. _IEEE Transactions on Communication_, accepted.
 
 **[J8]** Songshi Dou, Shengyu Zhang, Zhenglong Li, **Jinxian Wu**,  Xianhao Chen, & Lawrence K. Yeung. (2025). <a href="https://ieeexplore.ieee.org/document/11095828" target="_blank"> <span style="font-variant: small-caps;">SpaceCache</span>+: Towards Pervasive Content Delivery via Low-Earth Orbit Mega-Constellations. </a> _IEEE Transactions on Services Computing_, doi: 10.1109/TSC.2025.3592385, early access.
 
