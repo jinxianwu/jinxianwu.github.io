@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+(*: Corresponding Author)
 Journal Papers
 ======
 **[J9]** Songshi Dou, **Jinxian Wu***, Shengyu Zhang, Xianhao Chen, Tony Q.S. Quek, & Lawrence K. Yeung. (2025). <span style="font-variant: small-caps;">Matchmaker</span>: Maintaining QoS-aware and Predictable Load Balancing Performance for LEO Mega-Constellations. _IEEE Transactions on Communication_, accepted.
