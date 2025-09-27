@@ -23,41 +23,59 @@ News
 
   <p>
     <strong style="color: #494e52;">09/2025:</strong>
+    <ul>
     <li>One paper is accepted by <em>IEEE Transactions on Communication</em>.</li>
+    </ul>
   </p>
   <p>
     <strong style="color: #494e52;">07/2025:</strong>
+    <ul>
     <li>One paper is accepted by <em>IEEE Transactions on Services Computing</em>.</li>
+    </ul>
   </p>
   <p>
     <strong style="color: #494e52;">06/2025:</strong>
+    <ul>
     <li>One paper is accepted by <em>IEEE Transactions on Cybernetics</em>.</li>
     <li>One paper is accepted by <em>IEEE Robotics and Automation Letters</em>.</li>
+    </ul>
   </p>
   <p>
     <strong style="color: #494e52;">03/2025:</strong>
+    <ul>
     <li>One paper is accepted by <em>IEEE Transactions on Automatic Control</em> as Technical Note.</li>
+    </ul>
   </p>
   <p>
     <strong style="color: #494e52;">12/2024:</strong>
+    <ul>
     <li>Awarded the Huawei Scholarship for prospective graduate students in 2026.</li>
+    </ul>
   </p>
   <p>
     <strong style="color: #494e52;">11/2024:</strong>
+    <ul>
     <li>Received funding through the BIT Research and Innovation Promotion Project (Grant No.2024YCXY035).</li>
+    </ul>
   </p>
   <p>
     <strong style="color: #494e52;">10/2024:</strong>
+    <ul>
     <li>One paper is accepted by <em>IEEE Transactions on Automatic Control</em> as Full Paper.</li>
+    </ul>
   </p>
   <p>
     <strong style="color: #494e52;">07/2024:</strong>
+    <ul>
     <li>One paper is conditionally accepted by <em>IEEE Transactions on Automatic Control</em>.</li>
+    </ul>
   </p>
   <p>
     <strong style="color: #494e52;">04/2024:</strong>
+    <ul>
     <li>One paper is accepted by <em>Automatica</em> as Regular Paper.</li>
     <li>One paper is accepted by <em>International Journal of Robust and Nonlinear Control</em>.</li>
+    </ul>
   </p>
 </div>
 
