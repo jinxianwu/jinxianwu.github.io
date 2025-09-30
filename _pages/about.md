@@ -22,6 +22,12 @@ News
 <div style="background-color: #f3f3f3; padding: 15px; border-radius: 10px;">
 
   <p>
+    <strong style="color: #494e52;">10/2025:</strong>
+    <ul>
+    <li>Awarded the National Scholarship Award.</li>
+    </ul>
+  </p>
+  <p>
     <strong style="color: #494e52;">09/2025:</strong>
     <ul>
     <li>One paper is accepted by <em>IEEE Transactions on Communication</em>.</li>
