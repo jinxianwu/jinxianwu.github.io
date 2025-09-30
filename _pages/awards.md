@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+* National Scholarship Award, Chinese Ministry of Education, 2025
 * Huawei Scholarship, Huawei Technologies Co Ltd, 2024
 * Outstanding Ph.D. Student, Beijing Institute of Technology, 2024
 * Outstanding Graduates, Beijing Institute of Technology, 2022
