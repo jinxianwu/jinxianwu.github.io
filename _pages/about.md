@@ -24,7 +24,7 @@ News
   <p>
     <strong style="color: #494e52;">10/2025:</strong>
     <ul>
-    <li>Awarded the National Scholarship Award.</li>
+    <li>Awarded the National Scholarship from the Ministry of Education (ranking 1st).</li>
     </ul>
   </p>
   <p>
