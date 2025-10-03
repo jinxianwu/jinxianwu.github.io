@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-(*: Corresponding Author)
+( * : Corresponding Author)
 
 Journal Papers
 ======
