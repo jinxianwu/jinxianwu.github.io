@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student at <a href="https://ac.bit.edu.cn/" target="_blank">School of Automation</a>, <a href="https://english.bit.edu.cn/" target="_blank">Beijing Institute of Technology (BIT)</a>, and I am supervised by <a href="https://scholar.google.com.hk/citations?user=WDrzqT8AAAAJ&hl=zh-CN" target="_blank">Prof. Li Dai</a> and <a href="https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao" target="_blank">Prof. Yuanqing Xia</a>.
+I am a fourth-year Ph.D. student at <a href="https://ac.bit.edu.cn/" target="_blank">School of Automation</a>, <a href="https://english.bit.edu.cn/" target="_blank">Beijing Institute of Technology (BIT)</a>, and I am supervised by <a href="https://scholar.google.com.hk/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao" target="_blank">Prof. Yuanqing Xia</a> and <a href="https://scholar.google.com.hk/citations?user=WDrzqT8AAAAJ&hl=zh-CN" target="_blank">Prof. Li Dai</a>.
 
 My research focuses on distributed model predictive control (DMPC), specifically on the iterative DMPC methods for linear or nonlinear systems with nonlinear coupled constraints or costs, and the distributed optimization methods for DMPC.
 
