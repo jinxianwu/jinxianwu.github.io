@@ -30,7 +30,7 @@ News
   <p>
     <strong style="color: #494e52;">09/2025:</strong>
     <ul>
-    <li>One paper is accepted by <em>IEEE Transactions on Communication</em>.</li>
+    <li>One paper is accepted by <em>IEEE Transactions on Communications</em>.</li>
     </ul>
   </p>
   <p>
