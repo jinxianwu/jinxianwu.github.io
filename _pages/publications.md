@@ -8,6 +8,8 @@ author_profile: true
 
 Journal Papers
 ======
+**[J10]** Chenlong Fu, **Jinxian Wu***, Li Dai, Yuanqing Xia. (2025). Distributed MPC-based Trajectory Tracking Control for a Multi-quadrotor UAV Slung Load System.  _IET Control Theory & Applications_, doi: 10.1049/cth2.70088, accepted.
+
 **[J9]** Songshi Dou, **Jinxian Wu***, Shengyu Zhang, Xianhao Chen, Tony Q.S. Quek, & Lawrence K. Yeung. (2025). <a href="https://ieeexplore.ieee.org/document/11194235" target="_blank"> <span style="font-variant: small-caps;">Matchmaker</span>: Maintaining QoS-aware and Predictable Load Balancing Performance for LEO Mega-Constellations. </a> _IEEE Transactions on Communications_, doi: 10.1109/TCOMM.2025.3618176, early access.
 
 **[J8]** Songshi Dou, Shengyu Zhang, Zhenglong Li, **Jinxian Wu**,  Xianhao Chen, & Lawrence K. Yeung. (2025). <a href="https://ieeexplore.ieee.org/document/11095828" target="_blank"> <span style="font-variant: small-caps;">SpaceCache</span>+: Towards Pervasive Content Delivery via Low-Earth Orbit Mega-Constellations. </a> _IEEE Transactions on Services Computing_, 18(5), 3206 - 3220.
