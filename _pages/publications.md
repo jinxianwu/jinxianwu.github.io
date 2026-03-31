@@ -8,7 +8,7 @@ author_profile: true
 
 Journal Papers
 ======
-**[J11]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, Li Dai, & **Jinxian Wu**. (2026). <a href="" target="_blank"> Successive Suboptimal Model Predictive Control Using Sequential Convex Programming. </a>  _International Journal of Robust and Nonlinear Control_, doi: 10.1002/rnc.70457.
+**[J11]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, Li Dai, & **Jinxian Wu**. (2026). <a href="https://onlinelibrary.wiley.com/doi/10.1002/rnc.70457" target="_blank"> Successive Suboptimal Model Predictive Control Using Sequential Convex Programming. </a>  _International Journal of Robust and Nonlinear Control_, doi: 10.1002/rnc.70457.
 
 **[J10]** Chenlong Fu, **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2025). <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cth2.70088" target="_blank"> Distributed MPC-based Trajectory Tracking Control for a Multi-quadrotor UAV Slung Load System. </a>  _IET Control Theory & Applications_, 19(1), e70088.
 
