@@ -22,6 +22,12 @@ News
 <div style="background-color: #f3f3f3; padding: 15px; border-radius: 10px;">
 
   <p>
+    <strong style="color: #494e52;">04/2026:</strong>
+    <ul>
+    <li>One paper is accepted by <em> IEEE Transactions on Automatic Control</em>.</li>
+    </ul>
+  </p>
+  <p>
     <strong style="color: #494e52;">02/2026:</strong>
     <ul>
     <li>One paper is accepted by <em> International Journal of Robust and Nonlinear Control</em>.</li>
