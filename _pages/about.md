@@ -24,7 +24,7 @@ News
   <p>
     <strong style="color: #494e52;">04/2026:</strong>
     <ul>
-    <li>One paper is accepted by <em> IEEE Transactions on Automatic Control</em>.</li>
+    <li>One paper is conditionally accepted by <em> IEEE Transactions on Automatic Control</em>.</li>
     </ul>
   </p>
   <p>
