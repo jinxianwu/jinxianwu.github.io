@@ -24,6 +24,13 @@ News
   <p>
     <strong style="color: #494e52;">05/2026:</strong>
     <ul>
+    <li>One paper is accepted by <em> IEEE Transactions on Services Computing</em>.</li>
+    <li>One paper is accepted by <em> Journal of Command and Control</em>.</li>
+    </ul>
+  </p>
+  <p>
+    <strong style="color: #494e52;">05/2026:</strong>
+    <ul>
     <li>One paper is accepted by <em> IEEE Transactions on Automatic Control</em>.</li>
     </ul>
   </p>
