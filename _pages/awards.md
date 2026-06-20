@@ -7,9 +7,10 @@ redirect_from:
   - /resume
 ---
 
+* Outstanding Doctoral Dissertation, Beijing Institute of Technology, 2026
+* Outstanding Graduates, Beijing Institute of Technology, 2026, 2022
 * Outstanding Ph.D. Student, Beijing Institute of Technology, 2025, 2024
 * National Scholarship for Graduate Student, Chinese Ministry of Education, 2025
 * Huawei Scholarship, Huawei Technologies Co Ltd, 2024
-* Outstanding Graduates, Beijing Institute of Technology, 2022
 * Best Paper Award of CAC 2021, Chinese Association of Automation, 2021
 * Outstanding Master Student, Beijing Institute of Technology, 2021
