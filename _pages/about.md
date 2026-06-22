@@ -24,6 +24,7 @@ News
   <p>
     <strong style="color: #494e52;">06/2026:</strong>
     <ul>
+    <li>Awarded the outstanding doctoral dissertation of Beijing Institute of Technology.</li>
     <li>One paper is accepted by <em> IEEE Transactions on Services Computing</em>.</li>
     <li>One paper is accepted by <em> Journal of Command and Control</em>.</li>
     </ul>
