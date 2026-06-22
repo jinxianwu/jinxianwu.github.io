@@ -34,6 +34,7 @@ Journal Papers
 
 Conference Papers
 ======
+**[C3]** Songshi Dou, **Jinxian Wu**, Zehua Guo, & Kwan L. Yeung (2023). <a href="https://ieeexplore.ieee.org/document/11366355/" target="_blank"> Load-aware Ground Station Assignment for Low Earth Orbit Satellite Networks.</a> In _Proceedings of the 2026 IEEE 23rd Consumer Communications & Networking Conference_. IEEE.  
 
 **[C2]** Zixuan Fan, **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2023). <a href="https://ieeexplore.ieee.org/abstract/document/10239733" target="_blank"> Trajectory Planning Based on MINVO Basis for Autonomous Vehicles in Lane Change Scenarios.</a> In _Proceedings of the 2023 Chinese Control Conference_. IEEE.  
 
