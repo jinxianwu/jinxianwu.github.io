@@ -8,7 +8,7 @@ author_profile: true
 
 Journal Papers
 ======
-**[J13]** Songshi Dou, Feihu Jin, Jinxian Wu, A-Long Jin, & Lawrence K. Yeung (2026). <a href="" target="_blank"> <span style="font-variant: small-caps;">SpaceMeet</span>: Bringing Conferencing Closer through In-Orbit Conferencing Services. </a>  _IEEE Transactions on Services Computing_, doi: 10.1109/TSC.2026.3707012.
+**[J13]** Songshi Dou, Feihu Jin, Jinxian Wu, A-Long Jin, & Lawrence K. Yeung (2026). <a href="https://ieeexplore.ieee.org/document/11576583" target="_blank"> <span style="font-variant: small-caps;">SpaceMeet</span>: Bringing Conferencing Closer through In-Orbit Conferencing Services. </a>  _IEEE Transactions on Services Computing_, doi: 10.1109/TSC.2026.3707012.
 
 **[J12]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, **Jinxian Wu**, Jie Lin, & Li Dai. (2026). <a href="https://ieeexplore.ieee.org/document/11550388" target="_blank"> Nonlinear Model Predictive Control using a Modified Sequential Convex Programming. </a>  _IEEE Transactions on Automatic Control_, doi: 10.1109/TAC.2026.3699833.
 
