@@ -10,7 +10,7 @@ Journal Papers
 ======
 **[J13]** Songshi Dou, Feihu Jin, **Jinxian Wu**, A-Long Jin, & Lawrence K. Yeung (2026). <a href="https://ieeexplore.ieee.org/document/11576583" target="_blank"> <span style="font-variant: small-caps;">SpaceMeet</span>: Bringing Conferencing Closer through In-Orbit Conferencing Services. </a>  _IEEE Transactions on Services Computing_, 19(4), 3085 - 3098.
 
-**[J12]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, **Jinxian Wu**, Jie Lin, & Li Dai. (2026). <a href="https://ieeexplore.ieee.org/document/11550388" target="_blank"> Nonlinear Model Predictive Control using a Modified Sequential Convex Programming. </a>  _IEEE Transactions on Automatic Control_, doi: 10.1109/TAC.2026.3699833.
+**[J12]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, **Jinxian Wu**, Jie Lin, & Li Dai. (2026). <a href="https://ieeexplore.ieee.org/document/11550388" target="_blank"> Nonlinear Model Predictive Control using a Modified Sequential Convex Programming. </a>  _IEEE Transactions on Automatic Control_, 71(11), 7513 - 7520.
 
 **[J11]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, Li Dai, & **Jinxian Wu**. (2026). <a href="https://onlinelibrary.wiley.com/doi/10.1002/rnc.70457" target="_blank"> Successive Suboptimal Model Predictive Control Using Sequential Convex Programming. </a>  _International Journal of Robust and Nonlinear Control_, doi: 36(9), 5219-5233.
 
