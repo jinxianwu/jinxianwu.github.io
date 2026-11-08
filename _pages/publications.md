@@ -8,6 +8,8 @@ author_profile: true
 
 Journal Papers
 ======
+**[J14]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2026). <a href="" target="_blank"> Nonlinear Distributed Model Predictive Control with Privacy-Preserving Guarantees. </a>  _IEEE Transactions on Automatic Control_ (**Full paper**), to appear.
+
 **[J13]** Songshi Dou, Feihu Jin, **Jinxian Wu**, A-Long Jin, & Lawrence K. Yeung (2026). <a href="https://ieeexplore.ieee.org/document/11576583" target="_blank"> <span style="font-variant: small-caps;">SpaceMeet</span>: Bringing Conferencing Closer through In-Orbit Conferencing Services. </a>  _IEEE Transactions on Services Computing_, 19(4), 3085 - 3098.
 
 **[J12]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, **Jinxian Wu**, Jie Lin, & Li Dai. (2026). <a href="https://ieeexplore.ieee.org/document/11550388" target="_blank"> Nonlinear Model Predictive Control using a Modified Sequential Convex Programming. </a>  _IEEE Transactions on Automatic Control_, 71(11), 7513 - 7520.
