@@ -25,7 +25,7 @@ News
   <p>
     <strong style="color: #494e52;">10/2026:</strong>
     <ul>
-    <li>Awarded the Teli Postdoctoral Fellowship at Beijing Institute of Technology.</li>
+    <li>Awarded the <em>Teli Postdoctoral Fellowship</em> at Beijing Institute of Technology.</li>
     </ul>
   </p>
   <p>
