@@ -10,9 +10,9 @@ Journal Papers
 ======
 **[J14]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2026). <a href="" target="_blank"> Nonlinear Distributed Model Predictive Control with Privacy-Preserving Guarantees. </a>  _IEEE Transactions on Automatic Control_ (**Full paper**), to appear.
 
-**[J13]** Songshi Dou, Feihu Jin, **Jinxian Wu**, A-Long Jin, & Lawrence K. Yeung (2026). <a href="https://ieeexplore.ieee.org/document/11576583" target="_blank"> <span style="font-variant: small-caps;">SpaceMeet</span>: Bringing Conferencing Closer through In-Orbit Conferencing Services. </a>  _IEEE Transactions on Services Computing_, 19(4), 3085 - 3098.
+**[J13]** Songshi Dou, Feihu Jin, **Jinxian Wu**, A-Long Jin, & Lawrence K. Yeung (2026). <a href="https://ieeexplore.ieee.org/document/11576583" target="_blank"> <span style="font-variant: small-caps;">SpaceMeet</span>: Bringing Conferencing Closer through In-Orbit Conferencing Services. </a>  _IEEE Transactions on Services Computing_, 19(4), 3085-3098.
 
-**[J12]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, **Jinxian Wu**, Jie Lin, & Li Dai. (2026). <a href="https://ieeexplore.ieee.org/document/11550388" target="_blank"> Nonlinear Model Predictive Control using a Modified Sequential Convex Programming. </a>  _IEEE Transactions on Automatic Control_, 71(11), 7513 - 7520.
+**[J12]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, **Jinxian Wu**, Jie Lin, & Li Dai. (2026). <a href="https://ieeexplore.ieee.org/document/11550388" target="_blank"> Nonlinear Model Predictive Control using a Modified Sequential Convex Programming. </a>  _IEEE Transactions on Automatic Control_, 71(11), 7513-7520.
 
 **[J11]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, Li Dai, & **Jinxian Wu**. (2026). <a href="https://onlinelibrary.wiley.com/doi/10.1002/rnc.70457" target="_blank"> Successive Suboptimal Model Predictive Control Using Sequential Convex Programming. </a>  _International Journal of Robust and Nonlinear Control_, doi: 36(9), 5219-5233.
 
@@ -20,13 +20,13 @@ Journal Papers
 
 **[J9]** Songshi Dou, **Jinxian Wu***, Shengyu Zhang, Xianhao Chen, Tony Q.S. Quek, & Lawrence K. Yeung. (2025). <a href="https://ieeexplore.ieee.org/document/11194235" target="_blank"> <span style="font-variant: small-caps;">Matchmaker</span>: Maintaining QoS-aware and Predictable Load Balancing Performance for LEO Mega-Constellations. </a> _IEEE Transactions on Communications_, 73(12), 14078-14092.
 
-**[J8]** Songshi Dou, Shengyu Zhang, Zhenglong Li, **Jinxian Wu**,  Xianhao Chen, & Lawrence K. Yeung. (2025). <a href="https://ieeexplore.ieee.org/document/11095828" target="_blank"> <span style="font-variant: small-caps;">SpaceCache</span>+: Towards Pervasive Content Delivery via Low-Earth Orbit Mega-Constellations. </a> _IEEE Transactions on Services Computing_, 18(5), 3206 - 3220.
+**[J8]** Songshi Dou, Shengyu Zhang, Zhenglong Li, **Jinxian Wu**,  Xianhao Chen, & Lawrence K. Yeung. (2025). <a href="https://ieeexplore.ieee.org/document/11095828" target="_blank"> <span style="font-variant: small-caps;">SpaceCache</span>+: Towards Pervasive Content Delivery via Low-Earth Orbit Mega-Constellations. </a> _IEEE Transactions on Services Computing_, 18(5), 3206-3220.
 
-**[J7]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). <a href="https://ieeexplore.ieee.org/document/11083122" target="_blank"> Toward Improved Performance of Inner Convex Approximation for Suboptimal Nonlinear MPC. </a> _IEEE Transactions on Cybernetics_, 55(9), 4322 - 4332.
+**[J7]** **Jinxian Wu**, Li Dai, Songshi Dou, Yunshan Deng, & Yuanqing Xia. (2025). <a href="https://ieeexplore.ieee.org/document/11083122" target="_blank"> Toward Improved Performance of Inner Convex Approximation for Suboptimal Nonlinear MPC. </a> _IEEE Transactions on Cybernetics_, 55(9), 4322-4332.
 
 **[J6]** Yunshan Deng, Yuanqing Xia, Zhongqi Sun, Yuan Zhang, **Jinxian Wu**, & Xiangyu Kong. (2025). <a href="https://ieeexplore.ieee.org/document/11052755" target="_blank"> Convex MPC with Unreachable Setpoint for a Class of Affine Systems. </a> _IEEE Robotics and Automation Letters_, 10(8), 8340-8347.
 
-**[J5]** **Jinxian Wu**, Li Dai, Songshi Dou, & Yuanqing Xia. (2025). <a href="https://doi.org/10.1109/TAC.2025.3555375" target="_blank"> Accelerated Successive Convex Approximation for Nonlinear Optimization-Based Control. </a> _IEEE Transactions on Automatic Control_, 70(9), 6237 - 6244.
+**[J5]** **Jinxian Wu**, Li Dai, Songshi Dou, & Yuanqing Xia. (2025). <a href="https://doi.org/10.1109/TAC.2025.3555375" target="_blank"> Accelerated Successive Convex Approximation for Nonlinear Optimization-Based Control. </a> _IEEE Transactions on Automatic Control_, 70(9), 6237-6244.
 
 **[J4]** **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2025). <a href="https://ieeexplore.ieee.org/document/10740673" target="_blank"> Iterative Non-Convex Distributed MPC with Flexible Termination Strategy.</a> _IEEE Transactions on Automatic Control_ (**Full paper**), 70(5), 3008-3023.
 
@@ -34,7 +34,7 @@ Journal Papers
 
 **[J2]** **Jinxian Wu**, Li Dai, & Yuanqing Xia. (2024). <a href="https://onlinelibrary.wiley.com/doi/10.1002/rnc.7341" target="_blank"> Iterative Distributed Model Predictive Control for Nonlinear Systems with Coupled Non-convex Constraints and Costs.</a> _International Journal of Robust and Nonlinear Control_, 34(11), 7220-7244.
 
-**[J1]** Li Dai, Yaling Ma, Runze Gao, **Jinxian Wu**, &  Yuanqing Xia. (2023). <a href="https://ieeexplore.ieee.org/document/10022320" target="_blank"> Cloud-based Computational Model Predictive Control Using a Parallel Multi-block ADMM Approach.</a> _IEEE Internet of Things Journal_, 10(12), 10326 - 10343.
+**[J1]** Li Dai, Yaling Ma, Runze Gao, **Jinxian Wu**, &  Yuanqing Xia. (2023). <a href="https://ieeexplore.ieee.org/document/10022320" target="_blank"> Cloud-based Computational Model Predictive Control Using a Parallel Multi-block ADMM Approach.</a> _IEEE Internet of Things Journal_, 10(12), 10326-10343.
 
 Conference Papers
 ======
