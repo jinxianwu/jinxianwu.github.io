@@ -17,6 +17,18 @@ News
 <div style="background-color: #f3f3f3; padding: 15px; border-radius: 10px;">
 
   <p>
+    <strong style="color: #494e52;">11/2026:</strong>
+    <ul>
+    <li>One paper is accepted by <em>IEEE Transactions on Automatic Control</em> as Full Paper.</li>
+    </ul>
+  </p>
+  <p>
+    <strong style="color: #494e52;">10/2026:</strong>
+    <ul>
+    <li>Awarded the Teli Postdoctoral Fellowship at Beijing Institute of Technology.</li>
+    </ul>
+  </p>
+  <p>
     <strong style="color: #494e52;">06/2026:</strong>
     <ul>
     <li>Awarded the outstanding doctoral dissertation of Beijing Institute of Technology.</li>
